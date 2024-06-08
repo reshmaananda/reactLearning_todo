@@ -1,0 +1,30 @@
+.item{
+width: 600px;
+color: grey;
+font-size: 20px;
+margin: 0 auto;
+}
+
+.itemName{
+    font-weight: bold;
+    padding: 20px;
+}
+
+.itemLine{
+    border: 1px solid #dcdad6;
+}
+
+.itemDelete{
+    float: right;
+    padding : 12px 20px;
+    border: none;
+    background-color: blueviolet;
+    color: #fff;
+    margin-top: -5px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.itemCompleted{
+    text-decoration: line-through;
+}
